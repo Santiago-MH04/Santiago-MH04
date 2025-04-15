@@ -1,5 +1,4 @@
-# Hi there ! 👋
-## Welcome to my GitHub profile
+# Hi there! Welcome to my GitHub profile👋
 
 ## I'm Santiago 👨‍💻  
 I'm a passionate web developer, inclined for [Spring Framework](https://spring.io/), always trying to learn something new, and to get to innovative solutions.
